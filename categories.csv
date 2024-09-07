@@ -1,0 +1,14 @@
+name,definition
+AI & ML,AI is the broad science of a computer mimicking human abilities. Machine learning is a specific subset of AI that trains a machine how to learn. 
+BI & Data Analytics,"Capabilities and Technologies to process, stream, transport, analyze and report data. Leveraging that data to train cutting-edge learning algorithms and provide intelligent feedback loops to enhance the business insights."
+Customer Operational Platforms,Technologies & Capabilities that enable & support major business functions that are used directly by the customers.
+"Design, Development & Delivery","Technologies & Capabilities that enable software design, development and delivery within the enterprise. "
+Digital Workplace,"Tools and technology that help as a platform to have virtual work environment, collaboration medium that enhance employee productivity by efficiently exchanging information faster."
+Emerging Technologies,These are technologies that are not very common in usage or are being matured at Verizon.
+Enterprise Platforms,Technologies that are used by internal associates to affect the changes necessary both for company operations (directly) and customer operations (indirectly - technologies are not directly available and used by customers).
+Geographic Information Systems (GIS),Third party tools that are used by the field engineers and customers to explore and use services based on the geographic details. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes.
+IT Infrastructure Software Services,"Capabilities and Technologies that enable provisioning and configuration of IaaS/PaaS/CaaS/FaaS, Storage (block and object), and Network services: on-prem and Cloud, including containerization, container hosting, container orchestration, serverless computing, and observability. "
+Management & Governance,"Applications / Tools & Technologies that help manage devices, assets, and projects / programs and govern their status progress etc."
+Marketing Management,"Specific product / solution that helps Marketing organizations to get insights into customers’ intent, interest that allows for creation of promotions, targeted campaigns, and other marketing functions. Also has systems for planning new product development, advertising, promotions and sales."
+"Performance, Monitoring & Logging","Tools, Platforms, Frameworks & Techniques that enable performance, monitoring, logging, resiliency & dependability in the lifecycle management of a product. "
+Telecom Network Management,Software products that are primarily used to keep the telecom network up and running and to manage frontline workforce.
