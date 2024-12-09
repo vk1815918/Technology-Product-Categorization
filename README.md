@@ -21,7 +21,7 @@ This project involves building a natural language processing (NLP) model to clas
    - Tokenize text, vectorize using TF-IDF, and scale data for compatibility with machine learning models.
    - Handle class imbalances using oversampling techniques (e.g., SMOTE).
 4. **Model Development**:
-   - Train multiple models, including XGBoost, KNN, and transformer-based fine-tuned models.
+   - Train multiple models, including XGBoost, multishot learning, and transformer-based fine-tuned models.
    - Perform hyperparameter tuning to optimize model performance.
 5. **Evaluation**:
    - Evaluate models using classification metrics such as accuracy, precision, recall, and F1-score.
