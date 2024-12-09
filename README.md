@@ -29,11 +29,11 @@ This project involves building a natural language processing (NLP) model to clas
    - Deploy the best-performing model via APIs or cloud platforms for real-time predictions.
 
 ## Results and Key Findings
-- XGBoost and fine-tuned BERT models performed well but required balanced datasets and extensive preprocessing.
+- Multishot learning performed the best reaching a 60% accuracy, XGBoost and fine-tuned BERT models performed well but required balanced datasets and extensive preprocessing (BERT).
 - Text analysis highlighted key terms that improved category differentiation.
-- Balanced category distributions and TF-IDF insights significantly enhanced model performance.
+- Balanced category distributions and TF-IDF insights enhanced model performance.
 
-## Visualizations
+## Visualizations (EDA)
 1. **Product Distribution Across Categories**:
    - Bar charts showing category and subcategory distributions.
 2. **Description Length Analysis**:
