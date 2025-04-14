@@ -1,4 +1,5 @@
 # Enterprise Software Products Dataset Project
+![Screenshot 2025-04-13 212956](https://github.com/user-attachments/assets/f4ced77c-1fe6-4772-971d-6f2bd462ddd9)
 
 ## Project Overview
 This project involves building a natural language processing (NLP) model to classify enterprise software products into predefined categories and subcategories based on their descriptions. The dataset contains enterprise software product data, including product descriptions, categories, and subcategories, curated by enterprise technology experts. The model aims to improve the classification process and provide insights into the taxonomy of software products.
