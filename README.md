@@ -1,6 +1,3 @@
-Here's a polished and visually appealing version of your README with team member credits added at the top, improved formatting, and better visual hierarchy throughout:
-
----
 
 # 🧠 Enterprise Software Products Dataset Project
 
@@ -157,7 +154,3 @@ Supports tools that auto-classify enterprise software and reveal product overlap
 * Vendor names may not reflect commonly known names.
 * Text descriptions and classifications vary in clarity and consistency.
 * Some products may not clearly fit into a single taxonomy path.
-
----
-
-Let me know if you'd like a visual badge section (e.g., built with 🛠️ Python, Transformers, etc.) or tech stack icons added at the top.
